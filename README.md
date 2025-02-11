@@ -8,5 +8,5 @@ If you use data from this database, please be sure attribute this database as fo
 ![ViralDisease Knowledge Graph](https://github.com/kushidat/viralDisease_bioresource/blob/main/fig01b.png) 
 ViralDisease Knowledge Graph
 
-![Advanced Search](https://github.com/kushidat/bioresourceKG_schema/assets/1106622/8be6a85d-8af6-4586-b137-596c925e0d31)  
+![Advanced Search](https://github.com/kushidat/viralDisease_bioresource/blob/main/fig02b.png)
 [Advanced Search](https://web.brc.riken.jp/)
