@@ -10,3 +10,6 @@ ViralDisease Knowledge Graph
 
 ![Advanced Search](https://github.com/kushidat/viralDisease_bioresource/blob/main/fig02b.png)
 [Advanced Search](https://web.brc.riken.jp/)
+
+![Viral Diseases Supported by DNA/Experimental Mouse Resources from RIKEN BRC](https://github.com/kushidat/viralDisease_bioresource/blob/main/table01.png)
+Viral Diseases Supported by DNA/Experimental Mouse Resources from RIKEN BRC
